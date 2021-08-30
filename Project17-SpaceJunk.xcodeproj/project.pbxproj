@@ -18,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		60739CDC26D7D42600CE5B5F /* Chalkduster.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Chalkduster.ttf; sourceTree = "<group>"; };
 		6074EB6926D6CC5C002E2DA6 /* Project17-SpaceJunk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project17-SpaceJunk.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6074EB6C26D6CC5C002E2DA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6074EB6E26D6CC5C002E2DA6 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				6074EB7B26D6CC60002E2DA6 /* Info.plist */,
 				6074EB8126D6D587002E2DA6 /* explosion.sks */,
 				6074EB8226D6D587002E2DA6 /* starfield.sks */,
+				60739CDC26D7D42600CE5B5F /* Chalkduster.ttf */,
 			);
 			path = "Project17-SpaceJunk";
 			sourceTree = "<group>";
